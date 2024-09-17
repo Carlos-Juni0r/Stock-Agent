@@ -1,0 +1,8 @@
+  yfinance==0.2.43
+  crewai==0.55.2
+  langchain==0.2.16
+  langchain-openai==0.1.23
+  langchain-community==0.2.16
+  duckduckgo-search==6.2.11
+  pysqlite3-wheels
+  pysqlite3-binary
